@@ -16,12 +16,13 @@ Mit Hilfe dieser IP Adresse könnt ihr euch über einen Computer mit einem SSH P
 
 Mit dieser Datei könnt ihr putty auf eurem **Windows** Rechner installieren. Solltet ihr einen Mac haben, müsst ihr wen fragen, der sich damit auskennt. Aber auch für Apple Betriebssysteme gibt es **SSH Clients**
 
-
 ## Installation bei euch zu Hause (WLAN Verbindung hat **nicht** geklappt) ##
 Ok, da ist was schiefgelaufen, ist kein Beinbruch, jetzt muss aber ein wenig "gebastelt" werden. Wenn der MagigMirror schon läuft, steckt den USB On the Go (UBS-OTG) Adapter in die mittlere Micro-USB Buchse
+![USB-OTG Buchse](/BPI-M2_zero_11_USB-OTG.png?raw=true "USB-OTG Buchse")
 
-
-
+An diesen Adapter könnte ihr jetzt eine USB Tastatur und eine USB Maus anschließen. Anschließend könnt ihr aus dem Programm, welches sonst immer im Vollbildmodus im Vordergrund läuft verlassen, und eure WLAN Verbindung bei euch zuhause einrichten.
+Bedenkt hierbei: Durch die Spiegelfolie ist das Bild sehr dunkel. Das eigentliche MagicMirror Programm ist genau für diesen Zweck entworfen worden, und arbeitet mit sehr hohen Kontrasten und Helligkeiten. Um das WLAN zu konfigurieren, müsst ihr das MagicMirror Programm jedoch verlassen und auf das gewöhnliche Betriebssystem wechseln. Falls ihr hier nicht genug erkennen könnt, versuch eure Arbeitsumgebung möglichst dunkel zu gestalten. Licht aus, Rollos herunterfahren, etc.
+Das WLAN Menü findet ihr oben rechts im ARMBIAN Betriebssystem.
 
 
 ## Betriebssystem ##
