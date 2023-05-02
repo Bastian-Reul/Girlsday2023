@@ -27,3 +27,7 @@ Das WLAN Menü findet ihr oben rechts im ARMBIAN Betriebssystem.
 
 ## Betriebssystem ##
 Als Betriebssystem kommt ein für den Bananapi angepasstes ARMBIAN zum Einsatz. Armbian ist eine Abwandlung des Betriebssystems Debian, welches für den Betrieb mit einem ARM Prozessor (welcher auf dem Bananapi sitzt) angepasst ist.
+
+## Konfiguration des MagicMirrors ##
+Die Hauptdatei an der ihr änderungen an eurem MagicMirror vornehmen könnt, ist die Datei /home/bastian/MagicMirror/config/config.js
+Wenn ihr diese Datei mit dem Tetxteditor nano per ssh öffnet, könnt ihr hier euren MagicMirro nach euren Bedürfnissen anpassen.
